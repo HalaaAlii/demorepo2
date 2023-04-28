@@ -1,0 +1,3 @@
+C:/Users/aliha/CLionProjects/150 projects/demorepo2/cmake-build-debug/CMakeFiles/demorepo2.dir
+C:/Users/aliha/CLionProjects/150 projects/demorepo2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/aliha/CLionProjects/150 projects/demorepo2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
